@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "../.."
+		},
+		{
+			"path": "../../../my games/Salle_De_Sport_Symfony-main"
 		}
 	],
 	"settings": {}
